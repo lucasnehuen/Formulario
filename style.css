@@ -1,7 +1,7 @@
 body{
-    background-image: url(imagenes/Dubai.jpg);
+    background-image: url(imagenes/Argentina.jpeg);
     background-size: cover;
 }
 h1{
-    color: aqua;
+    color: rgb(255, 0, 0);
 }
